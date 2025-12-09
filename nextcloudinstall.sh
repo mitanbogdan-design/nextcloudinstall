@@ -7,8 +7,8 @@ set -euo pipefail
 ###########################################
 
 # --- CONFIG (editează DOAR astea două!) ---
-DOMAIN="exemplu.ateliermozaic.go.ro"   # <- domeniul tău
-EMAIL="contact@exemplu.ro"             # <- email pt Let's Encrypt
+DOMAIN="cloudyb.duckdns.org"   # <- domeniul tău
+EMAIL="mitanbogdan@hotmail.com"             # <- email pt Let's Encrypt
 # ------------------------------------------
 
 if [[ $EUID -ne 0 ]]; then
